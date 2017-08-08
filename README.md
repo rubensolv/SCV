@@ -6,7 +6,7 @@ Cleyton Rodrigo da Silva - Universidade Federal de Viçosa - cleyton.rodrigo.sil
 Rubens de Oliveira Moraes Filho - Universidade Federal de Viçosa - rubensolv@gmail.com
 Levi Lelis - Universidade Federal de Viçosa - levilelis@gmail.com
 
-For more information consult the Wiki.
+For more information consult the [Wik](https://github.com/rubensolv/PVAI-bot/wiki) .
 
 Bot MicroRTS com técnica de votação e aprendizado de comportamento do inimigo.
 Time:
