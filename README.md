@@ -1,4 +1,4 @@
-# PVAI-bot
+# SCV
 
 MicroRTS Bot whitch uses voting and supervised Learning techniques.    
 Team members:    
